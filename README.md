@@ -14,6 +14,8 @@ https://medium.com/@viovioviovioviovio/predict-churn-with-machine-learning-ea00b
 * Sparkify.ipynb - Jupyter Notebook with data analysis
 * Sparkify.html - HTML with the results from Jupyter Notebook
 
+## Licence
+MIT licence
 
 # Installation
 * Anaconda
