@@ -11,8 +11,8 @@ https://github.com/v1001/Sparkify_Churn_Prediction
 https://medium.com/@viovioviovioviovio/predict-churn-with-machine-learning-ea00b8a42011
 
 ## Files
-Sparkify.ipynb - Jupyter Notebook with data analysis
-Sparkify.html - HTML with the results from Jupyter Notebook
+* Sparkify.ipynb - Jupyter Notebook with data analysis
+* Sparkify.html - HTML with the results from Jupyter Notebook
 
 
 # Installation
