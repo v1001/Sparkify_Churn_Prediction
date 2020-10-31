@@ -12,7 +12,8 @@ https://medium.com/p/7dc2230a02/edit
 https://medium.com/@viovioviovioviovio/using-supervised-and-unsupervised-machine-learning-to-predict-churn-7dc2230a02
 
 ## Files
-* Sparkify.ipynb - Jupyter Notebook with data analysis
+* Sparkify_Feature_Engineering.ipynb - Jupyter Notebook with feature engineering and ML process
+* Sparkify_Wrangling_Statistics.ipynb - Jupyter Notebook with data wrangling and descriptive statistics, plots, patterns
 * Sparkify.html - HTML with the results from Jupyter Notebook
 
 ## Licence
