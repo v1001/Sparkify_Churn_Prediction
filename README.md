@@ -10,6 +10,7 @@ https://github.com/v1001/Sparkify_Churn_Prediction
 ### Medium
 https://medium.com/p/7dc2230a02/edit
 https://medium.com/@viovioviovioviovio/using-supervised-and-unsupervised-machine-learning-to-predict-churn-7dc2230a02
+https://medium.com/@viovioviovioviovio/how-to-avoid-careless-statements-271d20177af0
 
 ## Files
 * Sparkify_Feature_Engineering.ipynb - Jupyter Notebook with feature engineering and ML process
